@@ -38,7 +38,7 @@ The GitHub Organization for the craziest offensive development group, CosmodiumC
 - [UNIMOD](https://www.cosmodiumcs.com/post/unimod)
 <!-- BLOG-POST-LIST:END -->
 
-## Leadership:
+## Leadership module:
 - [Cosmo](https://github.com/PrettyBoyCosmo): **Chief Executive** 
 - [Wyrd](https://github.com/wyrdCCS): **Chief of Operations**
 - [Soul](https://github.com/Soulsender): **Development Director**
