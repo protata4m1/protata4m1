@@ -1,6 +1,6 @@
 Big part of [CosmodiumCS](https://github.com/CosmodiumCS)
 
-The GitHub Organization for the craziest offensive development group, CosmodiumCS
+The GitHub Organization for the craziest offensive development group, @CosmodiumCS
 
 ---
 
